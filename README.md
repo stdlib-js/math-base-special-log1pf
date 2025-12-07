@@ -284,9 +284,9 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [esm-readme]: https://github.com/stdlib-js/math-base-special-log1pf/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/math-base-special-log1pf/blob/main/branches.md
 
-<!-- <related-links> -->
-
 [@stdlib/math/base/special/lnf]: https://github.com/stdlib-js/math-base-special-lnf
+
+<!-- <related-links> -->
 
 <!-- </related-links> -->
 
