@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import log1pf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pf@esm/index.mjs';
+import log1pf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pf@v0.1.0-esm/index.mjs';
 ```
 
 #### log1pf( x )
@@ -94,7 +94,7 @@ var v = log1pf( -2.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import log1pf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pf@esm/index.mjs';
+import log1pf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
